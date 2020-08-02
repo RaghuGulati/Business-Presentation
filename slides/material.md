@@ -34,7 +34,10 @@ Planning is a pre-requisite not only for achieving success but also as for survi
 
 
 
-The main benefits of planning:
+### The main benefits of planning:
+
+
+
 1. <b>Planning provides directions</b>: By stating the objectives in advance, planning provides direction for action. Planning ensures that the goals or objectives are clearly stated so that they act as a guide for deciding the future course of action. When goals are well defined, employees know in advance what the organisation has to do and what they must do to achieve these goals.
 
 
